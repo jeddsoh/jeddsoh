@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jeddsoh
-- 👀 I’m interested in UX/UI design, social media, software engineering, and fashion.
-- 🌱 I’m currently learning software engineering.
-- 💞️ I’m looking to collaborate on anything!
+- 👀 I’m a UX/UI designer.
+- 🌱 I’m currently learning front-end engineering.
+- 💞️ I’m looking to work in ed-tech or VR/AR.
 - 📫 Reach me at jeddsoh@gmail.com or add me on LinkedIn.
 
 <!---
